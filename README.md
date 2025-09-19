@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**sigmundfrerard/sigmundfrerard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<div align="center">
+<!-- <a href="https://discord.com/users/202740603790819328" > -->
+<a href="https://discord.com/users/743981663553323080"><img src="https://lanyard.kyrie25.dev/api/743981663553323080?showDisplayName=true&showBanner=animated&imgStyle=circle&idleMessage=TTYL!&clanbg=transparent&bannerFilter=brightness(.50)&gradient=e1e0ea&theme=dark&waveColor=273025&waveSpotifyColor=273025" /></a>
+  </a>
+    <br>
+  <p>ᴸⁱᵏᵉ ᵃ ᵗᵒⁿᵍᵘᵉ, ᵗᵒⁿᵍᵘᵉ</p>
+  <p>ᴵⁿ ᵐʸ ᵉᵃʳ ᵈʳᵘᵐ, ᵈᵘᵐᵇ, ᵈᵘᵐᵇ</p>
+  <p>ᴹᵘˢⁱᶜ ᵇᵒʸᶠʳⁱᵉⁿᵈ, ᴵ'ᵐ ʸᵒᵘʳ ʸᵘᵐ, ʸᵘᵐ</p>
+<p>ᶜᵃˡˡ ᵐᵉ ᵃⁿᵈ ᴵ'ˡˡ ᶜᵒᵐᵉ</p>
+  
+</div>
