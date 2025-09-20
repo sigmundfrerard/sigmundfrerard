@@ -6,6 +6,8 @@
 | [![discord-badge](https://lanyard.kyrie25.dev/api/743981663553323080?hideNameplate=true&animatedDecoration=true&imgStyle=circle&showBanner=true&showDisplayName=true&gradient=ffffff-0d0301&bannerFilter=brightness(.30)&waveColor=0d0301&waveSpotifyColor=0d0301&idleMessage=TTYL!%20%3C3)](https://discord.com/users/743981663553323080) | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dstriderhusband&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
 
   <hr class="dashed">
+  <p align="center"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, c+h to ur hearts content. no dni. </p>
+  <hr class="solid">
   <p>&rarr;
     <img src="https://blinkiesgalore.carrd.co/assets/images/gallery07/efa10025.gif?v=f5efa041" alt="fangsaresexy">
     <img src="https://blinkiesgalore.carrd.co/assets/images/gallery02/b9e36988.gif?v=3cc29b6f" alt="biteme">
