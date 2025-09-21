@@ -6,7 +6,7 @@
 | [![Discord Presence](https://lanyard.kyrie25.dev/api/743981663553323080?gradient=ffffff-0d0301&idleMessage=TTYL!%20%3C3&hideNameplate=true&animatedDecoration=true&theme=dark&showBanner=true&bannerFilter=brightness(.30)&waveColor=0d0301&waveSpotifyColor=0d0301)](https://discord.com/users/743981663553323080)| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dstriderhusband&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
 
   <hr class="dashed">
-  <p align="center"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, c+h to ur hearts content. no dni. </p>
+  <p align="center"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, c+h to ur hearts content. no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b></p>
   <hr class="solid">
   <p>&rarr;
     <img src="https://blinkiesgalore.carrd.co/assets/images/gallery07/efa10025.gif?v=f5efa041" alt="fangsaresexy">
