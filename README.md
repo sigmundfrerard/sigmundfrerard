@@ -10,10 +10,10 @@
 <table>
     <tr>
         <td>
-             <p align="left"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b></p> 
+             <p align="left"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b> i prefer it/pup, but he is okay too</p> 
         </td>
         <td>
-            <p align="right">I have BPD and struggle with communication in a more general sense. Sometimes if u start talking to me ill poof, sorry. I just get kinda awkward, ur free to come up to me again if ud like. I don't bite,, for the most part. C+H is fine!! When I'm not playing with friends I'll typically go up to anyone I spot with c+h in their name or github :D</p> 
+            <p align="right">I have BPD and struggle with communication in a more general sense. Sometimes if u start talking to me ill poof, sorry. I just get kinda awkward, ur free to come up to me again if ud like. I don't bite,, for the most part. C+H is fine!! When I'm not playing with friends I'll typically go up to anyone I spot with c+h in their name or github :D ive seen some ppl mention struggling w putting together their github, feel free to hmu if u need any help w (basic) coding ^-^</p> 
             </td>
         </tr>
 </table>
