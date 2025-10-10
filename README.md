@@ -8,14 +8,17 @@
   <hr class="dashed">
 
 <table>
-    <tr>
-        <td>
-             <p align="left"> I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. im 18 years old. add my discord if ud like to chat, no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b> i prefer it/pup, but he is okay too</p> 
+    <tr colspan="2">
+        <td >
+             <p align="left">Hi!! I'm tord, i dont have much to say,, i use it/pup pronouns and am a queer boy, i enjoy being social <3 </p>
         </td>
         <td>
-            <p align="right">I have BPD and struggle with communication in a more general sense. Sometimes if u start talking to me ill poof, sorry. I just get kinda awkward, ur free to come up to me again if ud like. I don't bite,, for the most part. C+H is fine!! When I'm not playing with friends I'll typically go up to anyone I spot with c+h in their name or github :D ive seen some ppl mention struggling w putting together their github, feel free to hmu if u need any help w (basic) coding ^-^</p> 
-            </td>
+            <p align="right">I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,, for the most part. C+H encouraged, Please talk to me esp if we have common interests!!</p> 
+        </td>
         </tr>
+    <td>DOL, Gravity Falls, X-Men, Clinical Trial & tamers12345 is my main ponies, but i also really love a lot of other stuff,, </td>
+    <td><p align="right">I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. add my discord if ud like to chat, no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b></p></td>
+</tr>
 </table>
   <hr class="solid">
   <p>&rarr;
