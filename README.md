@@ -13,7 +13,7 @@
              <p align="left">Hi!! I'm tord, i dont have much to say,, i use it/pup pronouns and am a queer boy, i enjoy being social <3 </p>
         </td>
         <td>
-            <p align="right">I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,, for the most part. C+H encouraged, Please talk to me esp if we have common interests!!</p> 
+            <p align="right">I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,, for the most part. C+H encouraged, Please talk to me esp if we have common interests!! <b>im okay with anyone interacting with me, but if you are under 17 please do not try to talk abt DoL with me.</b></p> 
         </td>
         </tr>
     <td>DOL, Gravity Falls, X-Men, Clinical Trial & tamers12345 is my main ponies, but i also really love a lot of other stuff,, </td>
