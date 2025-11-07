@@ -17,7 +17,7 @@
         </td>
         </tr>
     <td>DOL, Gravity Falls, X-Men, Clinical Trial & tamers12345 is my main ponies, but i also really love a lot of other stuff,, </td>
-    <td><p align="right">I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. add my discord if ud like to chat, no dni. <b> i add most people with a comic book pony, so if u found me thru a friend request, hello!</b></p></td>
+    <td><p align="right">I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. add my discord if ud like to chat, no dni. ceo of dolponyism around the tree /nsrs</p></td>
 </tr>
 </table>
   <hr class="solid">
