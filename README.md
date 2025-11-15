@@ -16,8 +16,8 @@
             <p align="right">I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,, for the most part. C+H encouraged, Please talk to me esp if we have common interests!! <b>im okay with anyone interacting with me, but if you are under 16 please do not try to talk abt DoL with me if you know what it is.</b></p> 
         </td>
         </tr>
-    <td>DOL, Gravity Falls, X-Men, Clinical Trial & tamers12345 is my main ponies, but i also really love a lot of other stuff,, </td>
-    <td><p align="right">I don't have an atabook or strawpage, but i have my own website with a chatbox. it is linked. add my discord if ud like to chat, no dni. ceo of dolponyism around the tree /nsrs</p></td>
+    <td>DOL, Gravity Falls, X-Men, Clinical Trial & Hazbin Hotel is my main ponies, but i also really love a lot of other stuff,, </td>
+    <td><p align="right">Regarding my Angel Dust pony, please know i ship radiodust very seriously and have since i was like. 12... anyone is free to interact, and i normally wont go out of my way to interact wuth others unprompted as to avoid ppl being upset due to my ship</p></td>
 </tr>
 </table>
   <hr class="solid">
