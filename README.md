@@ -17,7 +17,7 @@
         </td>
         </tr>
     <td>DOL, Gravity Falls, X-Men, Clinical Trial & Hazbin Hotel is my main ponies, but i also really love a lot of other stuff,, </td>
-    <td><p align="right">Regarding my Angel Dust pony, please know i ship radiodust very seriously and have since i was like. 12... anyone is free to interact, and i normally wont go out of my way to interact wuth others unprompted as to avoid ppl being upset due to my ship</p></td>
+    <td><p align="right">Regarding my Angel Dust pony, please know i ship radiodust very seriously and have since i was like. 12... anyone is free to interact, and i normally wont go out of my way to interact wuth others unprompted as to avoid ppl being upset due to my ship. No ships make me uncomfortable!! please int hehe</p></td>
 </tr>
 </table>
   <hr class="solid">
