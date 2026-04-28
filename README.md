@@ -13,7 +13,7 @@
              <p align="left">Hi!! I'm tord, i use it/pup pronouns and am a queer boy, i enjoy being social <3 I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,,  </p>
         </td>
         <td>
-            <p align="right">Regarding my Angel Dust pony, please know i ship radiodust very seriously and have since i was like. 12... anyone is free to interact, and i normally wont go out of my way to interact wuth others unprompted as to avoid ppl being upset due to my ship. No ships make me uncomfortable!! please int hehe</p> 
+            <p align="right">No ships make me uncomfortable!! please int hehe</p> 
         </td>
         </tr>
     <td>DOL, Gravity Falls, X-Men, Clinical Trial & Hazbin Hotel is my main ponies, but i also really love a lot of other stuff,, </td>
