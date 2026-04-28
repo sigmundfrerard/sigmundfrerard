@@ -7,11 +7,8 @@
 
   <hr class="dashed">
 
-<table>
-    <tr colspan="2">
-        <td> <img src="https://files.catbox.moe/0iz3qe.png alt="A photo of KAngel from Needy Girl Overdose with a pink gradient applied. Underneath is text that says A magical girl, Descended from the heavens">
-        </td>
-</table>
+       <p>&rarr; <img src="https://files.catbox.moe/0iz3qe.png alt="A photo of KAngel from Needy Girl Overdose with a pink gradient applied. Underneath is text that says A magical girl, Descended from the heavens"> </p>
+
   <hr class="solid">
   <p>&rarr;
     <img src="https://blinkiesgalore.carrd.co/assets/images/gallery07/efa10025.gif?v=f5efa041" alt="fangsaresexy">
