@@ -9,16 +9,8 @@
 
 <table>
     <tr colspan="2">
-        <td >
-             <p align="left">Hi!! I'm tord, i use it/pup pronouns and am a queer boy, i enjoy being social <3 I have BPD and struggle with communication, Sometimes if u start talking to me ill poof, sorry. ur free to come up to me again if ud like. I don't bite,,  </p>
+        <td> <img src="https://files.catbox.moe/0iz3qe.png alt="A photo of KAngel from Needy Girl Overdose with a pink gradient applied. Underneath is text that says A magical girl, Descended from the heavens">
         </td>
-        <td>
-            <p align="right">No ships make me uncomfortable!! please int hehe</p> 
-        </td>
-        </tr>
-    <td>DOL, Gravity Falls, X-Men, Clinical Trial & Hazbin Hotel is my main ponies, but i also really love a lot of other stuff,, </td>
-    <td><p align="right"> C+H encouraged, Please talk to me esp if we have common interests!! <b>im okay with anyone interacting with me, but if you are under 16 please do not try to talk abt DoL with me if you know what it is.</b></p></td>
-</tr>
 </table>
   <hr class="solid">
   <p>&rarr;
