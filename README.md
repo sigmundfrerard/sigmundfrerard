@@ -6,8 +6,7 @@
 | [![Discord Presence](https://lanyard.kyrie25.dev/api/743981663553323080?gradient=ffffff-0d0301&idleMessage=TTYL!%20%3C3&hideNameplate=true&animatedDecoration=true&theme=dark&showBanner=true&bannerFilter=brightness(.30)&waveColor=0d0301&waveSpotifyColor=0d0301)](https://discord.com/users/743981663553323080)| [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=dstriderhusband&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile) |
 
   <hr class="solid">
-  <p>&rarr;
-       <img src="https://files.catbox.moe/0iz3qe.png alt="A photo of KAngel from Needy Girl Overdose with a pink gradient applied. Underneath is text that says A magical girl, Descended from the heavens"> </p>
+       <img src="https://files.catbox.moe/0iz3qe.png" alt="A photo of KAngel from Needy Girl Overdose with a pink gradient applied. Underneath is text that says A magical girl, Descended from the heavens" style="width: 500px; height: auto;"> 
 
   <hr class="solid">
   <p>&rarr;
